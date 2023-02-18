@@ -1,1 +1,5 @@
-My main observation is that it seems that total user spending increases as the year progresses. I've attached a simple chart I made in excel that aggregates spending per month. Early in the year total spending is low. Users in our data spend under $200000 per month for the first four months of the year. That number drastically increases in Q3 and Q4 where users spend almost $400000 per month.
+My main observation is that it seems that total user spending increases as the year progresses. 
+I've attached a simple chart I made in excel that aggregates spending per month. Early in the 
+year total spending is low. Users in our data spend under $200000 per month for the first four 
+months of the year. That number drastically increases in Q3 and Q4 where users spend almost 
+$400000 per month.
